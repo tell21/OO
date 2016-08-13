@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+# SSH
+*.pub
+id_rsa
+keyssh
+sshgit
