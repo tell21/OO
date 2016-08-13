@@ -31,5 +31,3 @@
 # SSH
 *.pub
 id_rsa
-keyssh
-sshgit
